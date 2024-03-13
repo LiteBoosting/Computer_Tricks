@@ -12,6 +12,7 @@
 |`git push <remote> <branch>` | — publishes local changes on a remote repository |
 |`git pull <remote> <branch>` | — downloads changes from a remote repository and integrates them into HEAD |
 |`git merge <branch>` | — merges the specific branch into your current HEAD.Paragraph |
+| `touch qwen_vl_max_testing.py` | create a new file without opening it |
 
 
 1. 找到.git -> 类似：https://github.com/LiteBoosting/LLM_testing.git
