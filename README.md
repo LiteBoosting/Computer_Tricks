@@ -1,5 +1,11 @@
 # Git Tricks
 ## 看到Github上面一个不错的projcect
+| Git Command      | Description |
+| ----------- | ----------- |
+| `git init`      | creates a new local repository |
+| Paragraph   | Text        |
+
+
 1. 找到.git -> 类似：https://github.com/LiteBoosting/LLM_testing.git
 2. 创建一个本地目录
 3. git init
