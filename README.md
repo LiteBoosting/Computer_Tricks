@@ -4,14 +4,14 @@
 | ----------- | ----------- |
 | `git init`      | creates a new local repository |
 | `git clone <repository>`| — clones an existing repository |
-| git status| lists changed files in your working directory |
-|git add . | — adds all current changes to the next commit |
-|git commit | — commits previously staged files |
-|git branch <new-branch> | — creates a new branch based on your current HEAD |
-|git checkout <branch> | — switches to a different HEAD branch |
-|git push <remote> <branch> | — publishes local changes on a remote repository |
-|git pull <remote> <branch> | — downloads changes from a remote repository and integrates them into HEAD |
-|git merge <branch> | — merges the specific branch into your current HEAD.Paragraph |
+| `git status`| lists changed files in your working directory |
+|`git add .` | — adds all current changes to the next commit |
+|`git commit` | — commits previously staged files |
+|`git branch <new-branch>` | — creates a new branch based on your current HEAD |
+|`git checkout <branch>` | — switches to a different HEAD branch |
+|`git push <remote> <branch>` | — publishes local changes on a remote repository |
+|`git pull <remote> <branch>` | — downloads changes from a remote repository and integrates them into HEAD |
+|`git merge <branch>` | — merges the specific branch into your current HEAD.Paragraph |
 
 
 1. 找到.git -> 类似：https://github.com/LiteBoosting/LLM_testing.git
