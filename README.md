@@ -1,7 +1,9 @@
 # Git Tricks
-## 看到Github上面一个不错的projcect，然后想自己玩玩儿，而不是去作为贡献者（贡献者需要pull request）
+## Scenarios
+### 看到Github上面一个不错的projcect，然后想自己玩玩儿，而不是去作为贡献者（贡献者需要pull request）
 （1）直接过去fork，然后保存为你自己的某一个repository
-（2）然后再与你的local filesystem以及IDE去同步
+（2）用Terminal直接去 `git clone <repository>`
+（3）用IDE去打开，然后选择"open project"
 
 | Git Command      | Description |
 | ----------- | ----------- |
